@@ -577,7 +577,7 @@ SkillId,Skill_US,IsSpecialized,IsSoftware,IsBaseline,IsLanguage,IsActive,SkillCl
 930,hypothermia,1,0,0,0,1,na,na,
 932,packing materials development,1,0,0,0,1,na,na,Ideation and Development
 933,smalltalk,1,1,0,0,1,na,na,Software
-934,new product information,1,0,0,0,1,company product and service knowledge,sales,Support Activities
+934,new product information,1,0,0,0,1,company product and service knowledge,sales,Ideation and Development
 935,marketing brochures,1,0,0,0,1,na,na,
 939,mining services,1,0,0,0,1,na,na,
 942,supply chain target implementation,1,0,0,0,1,na,na,
@@ -2449,7 +2449,7 @@ SkillId,Skill_US,IsSpecialized,IsSoftware,IsBaseline,IsLanguage,IsActive,SkillCl
 3867,document review,1,0,0,0,1,legal research,legal,Support Activities
 3870,projectwise,1,1,0,0,1,project management software,information technology,Software
 3874,test interpretation,1,0,0,0,1,routine examination tests and procedures,health care,
-3875,consumer electronics,1,0,0,0,1,company product and service knowledge,sales,Support Activities
+3875,consumer electronics,1,0,0,0,1,company product and service knowledge,sales,Ideation and Development
 3876,credit bureau information,1,0,0,0,1,na,na,
 3878,creative problem solving,0,0,1,0,1,na,na,General Skills
 3879,network protocol analysis,1,0,0,0,1,network protocols,information technology,Software
@@ -2946,7 +2946,7 @@ SkillId,Skill_US,IsSpecialized,IsSoftware,IsBaseline,IsLanguage,IsActive,SkillCl
 4628,songwriting,1,0,0,0,1,na,na,
 4630,schematic diagrams,1,0,0,0,1,schematic diagrams,"maintenance, repair, and installation",Tooling and Machining
 4631,cognos analysis studio,1,1,0,0,1,na,na,Software
-4632,company product/service knowledge,1,0,0,0,1,company product and service knowledge,sales,Support Activities
+4632,company product/service knowledge,1,0,0,0,1,company product and service knowledge,sales,Ideation and Development
 4633,rowing,1,0,0,0,1,na,na,
 4634,cataract surgery,1,0,0,0,1,na,na,
 4637,environmental audit systems,1,0,0,0,1,na,na,
@@ -5105,7 +5105,7 @@ SkillId,Skill_US,IsSpecialized,IsSoftware,IsBaseline,IsLanguage,IsActive,SkillCl
 8021,solaris,1,1,0,0,1,operating systems,information technology,Software
 8023,annual budget preparation,1,0,0,0,1,budget management,finance,Support Activities
 8025,premium collection,1,0,0,0,1,insurance sales,sales,Support Activities
-8026,technical product information,1,0,0,0,1,company product and service knowledge,sales,Support Activities
+8026,technical product information,1,0,0,0,1,company product and service knowledge,sales,Ideation and Development
 8027,drug validation,1,0,0,0,1,na,na,
 8028,logistics systems,1,0,0,0,1,logistics,supply chain and logistics,Supply Chain and Logistics
 8029,tax software,1,1,0,0,1,tax,finance,Support Activities
@@ -7310,7 +7310,7 @@ SkillId,Skill_US,IsSpecialized,IsSoftware,IsBaseline,IsLanguage,IsActive,SkillCl
 11519,change management process,1,1,0,0,1,business management,business,Support Activities
 11520,environmental liabilities,1,0,0,0,1,na,na,
 11521,growth strategies,1,0,0,0,1,business strategy,business,Support Activities
-11523,product knowledge,1,0,0,0,1,company product and service knowledge,sales,Support Activities
+11523,product knowledge,1,0,0,0,1,company product and service knowledge,sales,Ideation and Development
 11524,accessibility of services,1,0,0,0,1,na,na,
 11525,slope maintenance,1,0,0,0,1,na,na,
 11528,sumatriptan,1,0,0,0,1,na,na,
@@ -7936,7 +7936,7 @@ SkillId,Skill_US,IsSpecialized,IsSoftware,IsBaseline,IsLanguage,IsActive,SkillCl
 12537,simple network management protocol (snmp),1,0,0,0,1,network protocols,information technology,Software
 12538,patient advocacy,1,0,0,0,1,patient education and support,health care,
 12542,piping layout,1,0,0,0,1,na,na,
-12543,product and service information,1,0,0,0,1,company product and service knowledge,sales,Support Activities
+12543,product and service information,1,0,0,0,1,company product and service knowledge,sales,Ideation and Development
 12544,title iv compliance,1,0,0,0,1,financial aid counseling,finance,Support Activities
 12546,trucking industry knowledge,1,0,0,0,1,ground transportation industry knowledge,industry knowledge,
 12548,stock pricing,1,0,0,0,1,na,na,
